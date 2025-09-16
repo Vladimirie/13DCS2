@@ -12,7 +12,7 @@
         }
         //ha hosszú a szöveg az Alt + Z jó cucc rá
         //függvény az ez csak van visszatérési érték azaz nem void hanem az amivel visszatér lol
-        public void TeljesNev() //nem tudom már a nevét fuck
+        public void TeljesNev() //eljárás
         {
             string neve = VezetekNev + " " + KeresztNev;
             Console.WriteLine(neve);
@@ -52,17 +52,37 @@
 
     class Program {
 
-        struct Kooridata
+        struct Koordinata
         {
             public int x;
             public int y;
+
+            public Koordinata(int x, int y)
+            {
+                this.x = x;
+                this.y = y;
+            }
+
+            public override string ToString()
+            {
+                return $"{x};{y}";
+            }
+
+            public void SetOrigo(int setX, int setY)
+            {
+                x = setX;
+                y = setY;
+            }
         }
 
         static void Main(string[] args)
         {
-            Kooridata pont = new Kooridata();
-            Console.WriteLine(pont.x);
-            Console.Write(pont.y);
+            Koordinata pont = new Koordinata();
+            pont.SetOrigo(10, 2);
+            Console.WriteLine(pont);
+            pont.SetOrigo(0, 0);
+            Console.WriteLine(pont);
+
             /*
             Diak v1 = new Diak("NewCity Gyatt Soldier", "Gébriel (from Bible(tm))");
             Kurzus AMAF = new Kurzus("AMAF", 4, "13X", "SHIGI"); //explicit
