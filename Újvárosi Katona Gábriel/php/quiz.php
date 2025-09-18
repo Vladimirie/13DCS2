@@ -92,7 +92,7 @@
             <input  type="submit" name="submit" value="Beküldés" id="Submit" class="btn btn-success mt-3" >
 
             </div>
-        </div>
+        </div> 
 
     </div>
 </form>
@@ -104,7 +104,7 @@
     
 
    if (isset($_POST['submit'])){
-    if (!isset($_POST['terhes']) && !isset($_POST['auto'])){
+    if (!isset($_POST['terhes']) || !isset($_POST['auto'])){
         echo "<script> alert('Töltse ki a mezőket!')</script>";
     } else {
 
