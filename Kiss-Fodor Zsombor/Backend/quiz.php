@@ -33,7 +33,7 @@
         <div class="row mt-3">
             <div class="col-sm-12 text-center">
                 <h3> 2. Kérdés</h3>
-                <label for="">Melyik nem francia</label>
+                <label for="">Melyik nem autó márka francia</label>
                 <br>
                 <input type="radio" name="auto" id ="Citroën" value="Citroën">
                 <label for="Citroën">Citroën</label>
@@ -76,7 +76,7 @@
 
         <div class="row">
             <div class="col-sm-12 text-center">
-                <input type="submit" name="submit" class="btn btn-danger mt-3"></input>
+                <input type="submit" name="submit" class="btn btn-success mt-3"></input>
             </div>
         </div>
         
