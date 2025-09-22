@@ -1,0 +1,15 @@
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.AssemblyInfoInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.AssemblyInfo.cs
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.sourcelink.json
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\bin\Debug\net8.0\Osztalyok.exe
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\bin\Debug\net8.0\Osztalyok.deps.json
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\bin\Debug\net8.0\Osztalyok.runtimeconfig.json
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\bin\Debug\net8.0\Osztalyok.dll
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\bin\Debug\net8.0\Osztalyok.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.dll
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\refint\Osztalyok.dll
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\Osztalyok.genruntimeconfig.cache
+C:\Users\Kiss-FodorZsombor\Desktop\13Dénes\13DCS2\Kiss-Fodor Zsombor\AMAF\Osztalyok\obj\Debug\net8.0\ref\Osztalyok.dll
