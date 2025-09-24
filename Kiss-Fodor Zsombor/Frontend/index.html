@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Egyszerű SPA Példa</title>
+    <title>Órai munkák gyűjtőoldala</title>
+    <link rel="icon" type="image/x-icon" href="burger.jpg">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -92,9 +93,9 @@
     <div class="navbar">
         <a href="#" onclick="loadContent('ElementMaking')">1</a>
         <a href="#" onclick="loadContent('FunctionChanging')">2</a>
-        <a href="#" onclick="loadContent('Simple_list_with_popup')">Lista Popup</a>
-        <a href="#" onclick="loadContent('Simple_list_animation')">Lista Animation</a>
-        <a href="#" onclick="loadContent('table')">Táblázat</a>
+        <a href="#" onclick="loadContent('GenSort')">3</a>
+        <a href="#" onclick="loadContent('Login')">4</a>
+        <a href="#" onclick="loadContent('Delay')">5</a>
         <a href="#" onclick="loadContent('Html table with url')">Táblázat URL</a>
         <a href="#" onclick="loadContent('Html table with popup')">Táblázat Popup</a>
         <a href="#" onclick="loadContent('Div')">Divek</a>
@@ -132,22 +133,22 @@
                         <iframe src="szoveg.html" width="100%" height="400px" style="border:none;"></iframe>
                     `;
                     break;
-                    case 'Simple_list_with_popup':
+                    case 'GenSort':
                     content.innerHTML = `
-                        <h2>Simple list Popup</h2>
-                        <iframe src="Simple_list_with_popup.html" width="100%" height="400px" style="border:none;"></iframe>
+                        <h2>Szám generálása és szortírozása</h2>
+                        <iframe src="numbersorting.html" width="100%" height="400px" style="border:none;"></iframe>
                     `;
                     break;
-                    case 'Simple_list_animation':
+                    case 'Login':
                     content.innerHTML = `
-                        <h2>Simple list Popup</h2>
-                        <iframe src="Simple_list_animation.html" width="100%" height="400px" style="border:none;"></iframe>
+                        <h2>Bejelentkezési oldal</h2>
+                        <iframe src="login window.html" width="100%" height="400px" style="border:none;"></iframe>
                     `;
                     break;
-                    case 'table':
+                    case 'Delay':
                     content.innerHTML = `
-                        <h2>Egyszerű táblázat</h2>
-                        <iframe src="Table.html" width="100%" height="400px" style="border:none;"></iframe>
+                        <h2>idk</h2>
+                        <iframe src="delay.html" width="100%" height="400px" style="border:none;"></iframe>
                     `;
                     break;
                     case 'Html table with url':
