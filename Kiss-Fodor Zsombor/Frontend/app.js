@@ -26,6 +26,7 @@ openRequest.onsuccess = (e) => {
     console.log("Adatbázis sikeresen megnyitva.");
 
     // Váltás a Regisztráció és Bejelentkezés űrlapok között
+    /*
     document.getElementById('toggleLink').addEventListener('click', function (event) {
         event.preventDefault();
         const loginContainer = document.getElementById('loginFormContainer');
@@ -42,7 +43,7 @@ openRequest.onsuccess = (e) => {
             link.textContent = 'Még nincs fiókod? Regisztrálj!';
         }
         document.getElementById('message').textContent = '';
-    });
+    });*/
 
     // Regisztrációs űrlap kezelése validációval és IndexedDB-vel
     document.getElementById('registrationForm').addEventListener('submit', function (event) {
