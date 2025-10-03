@@ -9,40 +9,40 @@ namespace Autoapp
 {
 	class Cars
 	{
-		private int ID
+		public int ID
 		{
 			get;
-			set;
+			private set;
 		}
-		private string Brand
+		public string Brand
 		{
 			get;
-			set;
+			private set;
 		}
-		private string Model
+		public string Model
 		{
 			get;
-			set;
+			private set;
 		}
-		private int ProdYear
+		public int ProdYear
 		{
 			get;
-			set;
+			private set;
 		}
-		private string Color
+		public string Color
 		{
 			get;
-			set;
+			private set;
 		}
-		private int SoldAmount
+		public int SoldAmount
 		{
 			get;
-			set;
+			private set;
 		}
-		private int AvgPrice
+		public int AvgPrice
 		{
 			get;
-			set;
+			private set;
 		}
 		public Cars(int id, string brand, string model, int prodyear, string color, int soldamount, int avgprice)
 		{
@@ -66,6 +66,10 @@ namespace Autoapp
 			{
 				string[] clmn = item.Split(';');
 				data.Add(new Cars(int.Parse(clmn[0]), clmn[1], clmn[2], int.Parse(clmn[3]), clmn[4], int.Parse(clmn[5]), int.Parse(clmn[6])));
+			}
+			foreach(var cars in data)
+			{
+				Console.WriteLine(cars.);
 			}
 			Console.WriteLine();
 			Console.ReadKey();
