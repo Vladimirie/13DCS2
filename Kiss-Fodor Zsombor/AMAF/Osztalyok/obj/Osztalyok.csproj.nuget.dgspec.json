@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\13Dénes\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj": {}
+    "C:\\Users\\zsomb\\OneDrive\\Asztali gép\\school\\school\\.IT\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\13Dénes\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj": {
+    "C:\\Users\\zsomb\\OneDrive\\Asztali gép\\school\\school\\.IT\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\13Dénes\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj",
+        "projectUniqueName": "C:\\Users\\zsomb\\OneDrive\\Asztali gép\\school\\school\\.IT\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj",
         "projectName": "Osztalyok",
-        "projectPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\13Dénes\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj",
-        "packagesPath": "C:\\Users\\Kiss-FodorZsombor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\13Dénes\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\obj\\",
+        "projectPath": "C:\\Users\\zsomb\\OneDrive\\Asztali gép\\school\\school\\.IT\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\Osztalyok.csproj",
+        "packagesPath": "C:\\Users\\zsomb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zsomb\\OneDrive\\Asztali gép\\school\\school\\.IT\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Osztalyok\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kiss-FodorZsombor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zsomb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
