@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Osztalyok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f97c1e8b9a8ef55d5c18e741a52c4ffd0b4e96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74633ef8df080a2d5d99ddd0030623877959020f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Osztalyok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Osztalyok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
