@@ -1,4 +1,4 @@
-class program
+﻿class Program
 {
     static void Main(string[] args)
     {
@@ -80,7 +80,7 @@ class program
         Console.WriteLine("A 2 halzmaz metszete: " + string.Join(",", ParosSzamok));
         */
 
-        Dictionary<int, string> sub = new Dictionary<int, stringe>();
+        Dictionary<int, string> sub = new Dictionary<int, string>();
         sub.Add(1, "C#");
         sub.Add(2, "Java");
         sub.Add(3, "Python");
@@ -89,5 +89,63 @@ class program
         {
             System.Console.WriteLine($"Key: {item.Key}, value:{item.Value}");
         }
+
+        System.Console.WriteLine($"Sub dict első eleme: {sub[1]}");
+
+        for (int i = 0; i < sub.Count; i++)
+        {
+            Console.WriteLine(
+                "Key: {0}, Value: {1}",
+                sub.Keys.ElementAt(i),
+                sub[sub.Keys.ElementAt(i)]
+            );
+        }
+
+
+        sub.Remove(1);
+        System.Console.WriteLine(string.Join('\n', sub));
+
+        var cities = new Dictionary<string, string>()
+        {
+            { "UK", "London, Manchester, Birmingham" },
+            { "USA", "Chichago, New York, Washington" },
+            { "India", "Mumbai, New Delhi, Pune"},
+        };
+
+        Console.WriteLine(string.Join("\n", cities));
+
+        if (cities.ContainsKey("USA"))
+        {
+            System.Console.WriteLine("Amerikai városok: " + cities["USA"]);
+        }
+        if (!cities.ContainsKey("USA"))
+        {
+            System.Console.WriteLine("Francia városok: " + cities["France"]);
+        }
+        else
+        {
+            System.Console.WriteLine("Ez a kulcs nincs benne a szótárban.");
+        }
+
+        System.Console.WriteLine("Kérem adjon egy szót: ");
+        string szo = Console.ReadLine().ToLower();
+
+        Dictionary<char, int> stat = new Dictionary<char, int>();
+
+        foreach (char c in szo)
+        {
+            if (char.IsLetter(c))
+            {
+                if (!stat.ContainsKey(c))
+                {
+                    stat[c] = 1;
+                }
+                else
+                {
+                    stat[c]++;
+                }
+            }
+        }
+        System.Console.WriteLine(string.Join ("\n", stat));
     }
 }
