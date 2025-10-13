@@ -23,30 +23,160 @@ $data = json_decode($json, true);
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
       <img src="testi.webp" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
-      Bootstrap
+      Epic Fantasy MMORPG Game
     </a>
   </div>
 </nav>
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-
+<div class="row row-cols-1 row-cols-md-2 g-4" style="padding: 2ch;">
+<h1 style="color: white; font-weight: bold;">Tárgyak:</h1> <br>
 <?php
 
 $items = $data['targyak'];
 
-echo"
+//mindegyik item a shopban
+foreach ($items as $item) {
+  echo"
+  <div class='col'>
+  <div class='card' style='background-color: grey'>";
 
-<div class='col'>
-<div class='card'>
-  <img src='...' class='card-img-top'>
-  <div class='card-body'>
-    <h5 class='card-title'>Card title</h5>
-    <p class='card-text'>This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  //item képe
+  echo"<img src='" . $item['icon'] ."' class='card-img-top' style='border: black 0.3pc solid;'>
+  <div class='card-body'";
+  
+  //ritkaság alapján való szín
+  if ($item['ritkasag'] == 'közönséges') {
+    echo "style='color: lightblue'";
+  }
+  else if ($item['ritkasag'] == 'ritka')
+  {
+    echo "style='color: lightgreen'";
+  }
+  else if ($item['ritkasag'] == 'epikus')
+  {
+    echo "style='color: purple'";
+  }
+  else {
+    echo "style='color: orange'";
+  }
+  echo".> <h1 class='card-title'";
+
+  //név és kategória
+  echo">" . $item['tipus'] .": ". $item['nev'] ."</h1>";
+
+  //adatok
+  //ár
+  echo"<h3 class='card-text'>Költség: ". $item['ertek']."</h3>";
+
+  //szint
+  echo"<h3 class='card-text'>Szint követelmény: ". $item['szint_kovetelmeny']."</h3>";
+
+  //eladható-e
+  echo"<h3 class='card-text'>Értékesíthető? ";
+  if ($item['ertekesitheto']) {
+    echo "Igen";
+  }
+  else {
+    echo "Nem";
+  }
+  echo "</h3>";
+
+  //felvehető-e
+  echo"<h3 class='card-text'>Felvehető? ";
+  if ($item['equipelheto']) {
+    echo "Igen";
+  }
+  else {
+    echo "Nem";
+  }
+  echo "</h3>";
+
+  //bónuszok
+  if (count($item["bonuszok"]) > 0) {
+    echo "<h1>Bónuszok:</h1>";
+    echo "<ul>";
+    foreach($item["bonuszok"] as $key => $value) {
+      echo"<li style='font-size: 3ch;";
+
+      if ($key == "sebzes") {
+        echo "color: red; '> Sebzés";
+      }
+      else if ($key == "tuz") {
+        if ($item['tipus'] != "páncél") {
+          echo "color: orange; '> Tűz sebzés";
+        }
+        else {
+          echo "color: orange; '> Tűz védelem";
+        }
+      }
+      else if ($key == "vedelem") {
+        echo "color: blue; '> Védelem";
+      }
+      else if ($key == "hp_heal") {
+        echo "color: salmon; '> Életpont";
+      }
+      else if ($key == "mp_heal") {
+        echo "color: aquamarine; '> Mana";
+      }
+      else if ($key == "kritikus") {
+        echo "color: darkred; '> Kritikus%";
+      }
+      else if ($key == "mana") {
+        echo "color: aqua; '> Max Mana";
+      }
+      else if ($key == "jeg") {
+        if ($item['tipus'] != "páncél") {
+          echo "color: cyan; '> Jég sebzés";
+        }
+        else {
+          echo "color: cyan; '> Jég védelem";
+        }
+      }
+      else if ($key == "lassitas") {
+        echo "color: black; '> Lassítás";
+      }
+      else if ($key == "arny") {    
+        if ($item['tipus'] != "páncél") {
+          echo "color: purple; '> Árny sebzés";
+        }
+        else {
+          echo "color: purple; '> Árny védelem";
+        }
+      }
+      else if ($key ==  "hp_max") {
+        echo "color: red; '> Max Életpont";
+      }
+      else if ($key ==  "időtartam_mp") {
+        echo "color: white; '> Időtartam";
+      }
+      else if ($key == "eletero_regen") {
+        echo "color: pink; '> Regeneráció";
+      }
+      else {
+        if ($item['tipus'] != "páncél") {
+          echo "color: yellow; '> Fény sebzés";
+        }
+        else {
+          echo "color: yellow; '> Fény védelem";
+        }
+      }
+
+      if ($key != "időtartam_mp") {
+        echo ": +" . $value ."</li>";
+      }
+      else {
+        echo ": " . $value ."sec</li>";
+      }
+      
+    }
+    echo "</ul>";
+  }
+  
+  echo"  </div>
   </div>
-</div>
-</div>
-
-";
+  </div>";
+}
+    //<p class='card-text'>This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>";
 
 ?>
 
