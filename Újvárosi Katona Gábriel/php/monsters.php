@@ -75,28 +75,28 @@ foreach ($data['szornyek'] as $monster){
 switch ($monster['kategoria']) {
     case "elementál":
       
-        echo '<li style="color: magenta;">Elementál<li>';
+        echo '<li style="color: magenta;">Elementál</li>';
       break;
     case "szellem":
-        echo '<li style="color: gray;">Szellem<li>';
+        echo '<li style="color: gray;">Szellem</li>';
       break;
     case "vad":
-        echo '<li style="color: brown;">Vad<li>';
+        echo '<li style="color: brown;">Vad</li>';
       break;
       case"őr":
-        echo '<li style="color: Blue;">Őr<li>';
+        echo '<li style="color: Blue;">Őr</li>';
         break;
         case"főellenfél":
-            echo '<li style="color: gold; background-color: black ">Főellenfél<li>';
+            echo '<li style="color: gold; background-color: black ">Főellenfél</li>';
             break;
         case"humanoid":
-         echo '<li style="color: black;">Humanoid<li>';
+         echo '<li style="color: black;">Humanoid</li>';
        break;
        case"elit":
-        echo '<li style="color: red;">Elit<li>';
+        echo '<li style="color: red;">Elit</li>';
       break; 
       case"óriás":
-        echo '<li style="color: mediumpurple ;">Óriás<li>';
+        echo '<li style="color: mediumpurple ;">Óriás</li>';
       break;   
     default:
             echo '<li>'.$monster['kategoria'].'</li>';
@@ -108,7 +108,39 @@ switch ($monster['kategoria']) {
  echo '<li> arany Drop: '.$monster['arany'].'</li>';
 
   echo '</ul>';
+    echo '<h4> Dropok: </h4>';
+    echo '<div class="container text-center">';
+    echo '<div class="row">';
+    foreach ($monster['dropok'] as $loot){
 
+      echo' <div class="col">';
+        $found = false;
+        $index = 0;
+        while (!$found && $index < count($data['targyak'])) {
+            if ($data['targyak'][$index]['id'] == $loot['item_id']) {
+
+              $found = true;
+              echo $data['targyak'][$index]['nev'];
+
+            }
+            $index++;
+
+
+        }
+          echo      ' Dropolás esélye: '.$loot['esely_szazalek'];
+          echo ' Min drop: '.$loot['min_db'];
+          echo ' Max drop: '.$loot['max_db'];
+
+     echo'</div>';
+
+
+    }
+
+ 
+
+
+echo'</div>';
+echo '</div>';
 
 
 echo '  </div>';
