@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>fantasy piactér és kaland</title>
     <style>
         td{
             border: solid;
@@ -74,6 +74,46 @@ echo "</tr>";
 
 }
 echo " </table>";
+
+?>
+
+<h2>Termékek</h2>
+<form action="" method="post">
+
+<Select onchange="this.form.submit()" name="termekvalasztas">
+    <option value="">Válaszon egy kategóriát</option>
+    <option value="gyumolcs">gyümolcs</option>
+    <option value="pekaru">Pékárú</option>
+    <option value="tej">Tej</option>
+</Select>
+</form>
+
+<?php
+if (isset($_POST["termekvalasztas"])) {
+
+   
+    
+    foreach ($termekek as $termek){
+
+            if ($termek["kategoria"] == $_POST['termekvalasztas']) {
+                
+
+                echo $termek["nev"]." ";
+                if ($termek["raktaron"]) {
+
+                    echo "Raktáron";
+                } else {
+                    echo "Elfogyott";
+                }
+                
+                echo "<br>";
+            }        
+    }
+
+}
+
+
  ?>
+
 </body>
 </html>

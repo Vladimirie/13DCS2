@@ -121,6 +121,7 @@
   "targyak": [
     {
       "id": "I100",
+      "icon":"parazspenge.jpg",
       "nev": "Parázspenge",
       "tipus": "fegyver",
       "ritkasag": "ritka",
@@ -132,6 +133,7 @@
     },
     {
       "id": "I101",
+      "icon":"tolgyfapancel.webp",
       "nev": "Tölgyfalemez Páncél",
       "tipus": "páncél",
       "ritkasag": "közönséges",
@@ -143,6 +145,7 @@
     },
     {
       "id": "I102",
+      "icon":"gyogyital.png",
       "nev": "Gyógyital (Közepes)",
       "tipus": "ital",
       "ritkasag": "közönséges",
@@ -154,6 +157,7 @@
     },
     {
       "id": "I103",
+      "icon":"manaital.webp",
       "nev": "Manaital (Kis)",
       "tipus": "ital",
       "ritkasag": "közönséges",
@@ -165,6 +169,7 @@
     },
     {
       "id": "I104",
+      "icon":"holdgyuru.png",
       "nev": "Holdkő Gyűrű",
       "tipus": "ékszer",
       "ritkasag": "ritka",
@@ -176,6 +181,7 @@
     },
     {
       "id": "I105",
+      "icon":"sarkanypikkely.jpg",
       "nev": "Sárkánypikkely",
       "tipus": "alapanyag",
       "ritkasag": "epikus",
@@ -187,6 +193,7 @@
     },
     {
       "id": "I106",
+      "icon":"rozsdakulcs.png",
       "nev": "Rozsdás Kulcs",
       "tipus": "küldetés",
       "ritkasag": "közönséges",
@@ -198,6 +205,7 @@
     },
     {
       "id": "I107",
+      "icon":"jegkoppeny.webp",
       "nev": "Fagyfok Köpeny",
       "tipus": "páncél",
       "ritkasag": "epikus",
@@ -209,6 +217,7 @@
     },
     {
       "id": "I108",
+      "icon":"medve.webp",
       "nev": "Vadászcsapda",
       "tipus": "eszköz",
       "ritkasag": "közönséges",
@@ -220,6 +229,7 @@
     },
     {
       "id": "I109",
+      "icon":"nightbow.webp",
       "nev": "Éji Íj",
       "tipus": "fegyver",
       "ritkasag": "legendás",
@@ -231,6 +241,7 @@
     },
     {
       "id": "I110",
+      "icon":"gyogyital.png",
       "nev": "Szíverősítő Elixír",
       "tipus": "ital",
       "ritkasag": "ritka",
@@ -242,6 +253,7 @@
     },
     {
       "id": "I111",
+      "icon":"Sun_Stone.png",
       "nev": "Napfény Amulett",
       "tipus": "ékszer",
       "ritkasag": "epikus",
