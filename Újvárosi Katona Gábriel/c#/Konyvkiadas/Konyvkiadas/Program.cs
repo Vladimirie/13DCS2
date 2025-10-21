@@ -46,6 +46,7 @@ namespace Konyvkiadas
 
 
             }
+            Console.WriteLine("2 es feladat");
             Console.WriteLine("Melyk szerzőre szeretne rá keresni?");
             string userInput = Console.ReadLine();
             int szerzoCount = 0;
@@ -85,10 +86,10 @@ namespace Konyvkiadas
                 }
 
             }
-
+            Console.WriteLine("3 as feladat:");
             Console.WriteLine($"A legnagyobb példányszám:{maxkiadas} ammi {maxcount} szer fordult elő.");
 
-
+            Console.WriteLine("4 es feladat:");
             int kulfindex = 0;
             bool found = false;
             while (!found && kulfindex < Kiadasok.Count())
@@ -100,9 +101,15 @@ namespace Konyvkiadas
                 }
                 kulfindex++;
             }
-            Console.WriteLine("Év \tMagyar kiadás\t  Magyar példányszám\t Külföldi kiadás\t Külföldi példányszám");
+            Console.WriteLine("5 ös Feladat:");
+            Console.WriteLine("   Év \tMagyar kiadás\t  Magyar példányszám\t Külföldi kiadás\t Külföldi példányszám");
 
+            AdatkiIras(2020, Kiadasok);
+            AdatkiIras(2021, Kiadasok);
+            AdatkiIras(2022, Kiadasok);
+            AdatkiIras(2023, Kiadasok);
 
+            Console.WriteLine("6 os Feladat:");
 
 
             Console.ReadLine();
@@ -125,14 +132,21 @@ namespace Konyvkiadas
                 {
                     if (kiadas.Eredet == "ma")
                     {
-
+                        magyarkiadas++;
+                        magyarpeldanyszam += kiadas.Peldanyszam;
                     } else
                     {
+
+                        kulfoldikiadas++;
+                        kulfoldipeldanyszam += kiadas.Peldanyszam;
 
                     }
 
                 }
             }
+            Console.WriteLine($"  {evszam} \t    {magyarkiadas} \t \t        {magyarpeldanyszam} \t        \t {kulfoldikiadas} \t              \t{kulfoldipeldanyszam}");
+
+
         }
 
 
