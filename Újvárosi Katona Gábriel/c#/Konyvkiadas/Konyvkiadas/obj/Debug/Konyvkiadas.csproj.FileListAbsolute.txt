@@ -1,0 +1,7 @@
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\bin\Debug\Konyvkiadas.exe.config
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\bin\Debug\Konyvkiadas.exe
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\bin\Debug\Konyvkiadas.pdb
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\obj\Debug\Konyvkiadas.csproj.AssemblyReference.cache
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\obj\Debug\Konyvkiadas.csproj.CoreCompileInputs.cache
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\obj\Debug\Konyvkiadas.exe
+C:\Users\UivarosiGabriel\Desktop\c#\Konyvkiadas\Konyvkiadas\obj\Debug\Konyvkiadas.pdb
