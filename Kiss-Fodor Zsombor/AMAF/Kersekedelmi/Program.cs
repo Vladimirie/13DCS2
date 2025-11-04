@@ -58,9 +58,11 @@
                 string[] s = kolonia.Split(";");
                 string azon = s[0];
                 string nev = s[1];
-                string szallitas = s[2];
-                koliniak.Add(s[0], new Kolonia(azon, nev, szallitas));
+                string szektor = s[2];
+                koliniak.Add(s[0], new Kolonia(azon, nev, szektor));
             }
+
+            List<Szallitas>
 
             /*foreach (var koli in koliniak)
             {
