@@ -1,0 +1,15 @@
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\bin\Debug\net8.0\Wurlde.exe
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\bin\Debug\net8.0\Wurlde.deps.json
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\bin\Debug\net8.0\Wurlde.runtimeconfig.json
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\bin\Debug\net8.0\Wurlde.dll
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\bin\Debug\net8.0\Wurlde.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.AssemblyInfoInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.AssemblyInfo.cs
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.sourcelink.json
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.dll
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\refint\Wurlde.dll
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\Wurlde.genruntimeconfig.cache
+C:\Users\Kiss-FodorZsombor\Desktop\github\13DCS2\Kiss-Fodor Zsombor\AMAF\Wurlde\obj\Debug\net8.0\ref\Wurlde.dll
