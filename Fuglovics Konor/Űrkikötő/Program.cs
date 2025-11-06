@@ -139,6 +139,29 @@
 			Console.Write("\n");
 			CarType();
 			SortTypes();
+
+			int user = int.Parse(Console.ReadLine());
+			SortedDictionary<int, List<Vehicle>> collection = [];
+			foreach (var car in allcars)
+			{
+				if (!collection.ContainsKey(car.ArrivesInDays))
+				{
+					collection[car.ArrivesInDays] = [];
+				}
+				collection[car.ArrivesInDays].Add(car);
+			}
+			if(collection.ContainsKey(user))
+			{
+				foreach(var j in collection[user])
+				{
+					Console.WriteLine(j);
+				}
+			}
+			else
+			{
+				Console.WriteLine($"ERROR!\nDay {user} doesn't exist!");
+			}
+
 			//Console.WriteLine(string.Join("\n",allstats));
 			Console.ReadKey();
         }
