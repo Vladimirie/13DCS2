@@ -77,7 +77,7 @@
 				i++;
 			}
 			//---------------------------------------
-			void Days()
+			void Days() //1.
 			{
 				Dictionary<int, int> daycheck = [];
 				int count = 1;
@@ -99,20 +99,46 @@
 					}
 				}
 				Console.WriteLine(string.Join("\n", daycheck));
+				int max = 0;
+				int num = 0;
+				foreach(var i in daycheck.Values)
+				{
+					if(i > max)
+					{
+						max = i;
+						num++;
+					}
+				}
+				//Console.WriteLine($"{num}, {max}");
 			}
-			void CarType()
+			void CarType() //2.
 			{
 				Console.WriteLine(string.Join("\n", allstats));
 			}
-			void SortTypes()
+			void SortTypes() //3.
 			{
-				//Ötletem sincs hogyan csináljam meg ezt...
-				//Dictionary<int, List<Vehicle>> collection = [];
-				//Console.WriteLine(string.Join("\n", collection));
+				SortedDictionary<int, List<Vehicle>> collection = [];
+				foreach(var car in allcars)
+				{
+					if(!collection.ContainsKey(car.ArrivesInDays))
+					{
+						collection[car.ArrivesInDays] = [];
+					}
+					collection[car.ArrivesInDays].Add(car);
+				}
+				foreach(var arrive in collection.Keys)
+				{
+					Console.WriteLine($"\nThese cars have arrived on day {arrive}:");
+					foreach(var a in collection[arrive])
+					{
+						Console.WriteLine(a);
+					}
+				}
 			}
 			Days();
+			Console.Write("\n");
 			CarType();
-			//SortTypes();
+			SortTypes();
 			//Console.WriteLine(string.Join("\n",allstats));
 			Console.ReadKey();
         }
