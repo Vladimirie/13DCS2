@@ -1,0 +1,56 @@
+table {
+    margin-top: 1ch;
+    background-color: orange;
+    font-size: 5ch;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+tr {
+    border: 0.3ch solid black;  
+}
+
+th {
+    background-color: darkorange;
+    padding: 1ch;
+    border: 0.3ch solid black;
+}
+
+td {
+    border: 0.3ch solid black;
+    padding: 0.8ch;
+}
+
+img {
+    width: 80%;
+}
+
+.teamName {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.fideszmod {
+    background-color: orange;
+    padding: 0.2ch;
+}
+
+.title {
+    font-size: 6ch;
+    font-weight: bold;
+    padding: 1ch;
+}
+
+.match {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1ch;
+    border: 0.5ch solid black;
+    width: 80%;
+}
+
+.stat {
+    margin-bottom: 2ch;
+}
