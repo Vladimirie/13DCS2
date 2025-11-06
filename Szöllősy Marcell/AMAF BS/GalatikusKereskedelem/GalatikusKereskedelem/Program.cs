@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+
 
 // 1. feladat – Osztályok létrehozása
 public class Kolonia : IComparable<Kolonia>
