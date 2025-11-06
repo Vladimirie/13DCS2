@@ -7,17 +7,17 @@
 			get;
 			set;
 		}
+		public int QYear
+		{
+			get;
+			set;
+		}
 		public string Origin
 		{
 			get;
 			set;
 		}
-		public string Author
-		{
-			get;
-			set;
-		}
-		public string Title
+		public string Desc
 		{
 			get;
 			set;
@@ -27,41 +27,56 @@
 			get;
 			set;
 		}
-		public Book(int relyear, string origin, string author, string title, int copies)
+		public Book(int relyear, int qyear, string origin, string desc, int copies)
 		{
 			RelYear = relyear;
+			QYear = qyear;
 			Origin = origin;
-			Author = author;
-			Title = title;
+			Desc = desc;
 			Copies = copies;
+		}
+		public override string ToString()
+		{
+			return $"Release year: {RelYear}, Quarter year: {QYear}, Origin: {Origin}, Description: {Desc}, Copies: {Copies}";
 		}
 	}
     internal class Program
     {
         static void Main(string[] args)
         {
-            List<Book> data = [];
+            List<Book> mem = [];
 			foreach(var line in File.ReadAllLines("kiadas.txt"))
 			{
 				string[] scan = line.Split(";");
-				string auth;
-				string ttl;
-				if(scan[3].Contains(": "))
+				mem.Add(new Book(int.Parse(scan[0]), int.Parse(scan[1]), scan[2], scan[3], int.Parse(scan[4])));
+			}
+			/*foreach(var book in mem)
+			{
+				Console.WriteLine(book);
+			}*/
+			Console.WriteLine("2.");
+			Console.Write("Keresés: ");
+			string auth = Console.ReadLine();
+			if(auth != "")
+			{
+				int chance = 0;
+				foreach(var book in mem)
 				{
-					string[] scan2 = scan[3].Split(": ");
-					auth = scan2[0];
-					ttl = scan2[1];
+					if(book.Desc.Contains(auth))
+					{
+						chance++;
+					}
+				}
+				if(chance>0)
+				{
+					Console.WriteLine($"{chance} copies were released.");
 				}
 				else
 				{
-					int i = scan[3].IndexOf("(");
-					int i2 = scan[3].IndexOf(")");
-					auth = scan[3].Substring(i, i2);
-					ttl = scan[3].Substring(0, i);
-
+					Console.WriteLine("Didn't.");
 				}
-				Book db = new Book(int.Parse(scan[0]), scan[1], scan[2], scan[3], int.Parse(scan[4]));
 			}
+				Console.ReadKey();
         }
     }
 }
