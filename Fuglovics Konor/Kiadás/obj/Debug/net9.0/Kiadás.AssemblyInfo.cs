@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiadás")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f380b3852825afd8b214a2268dc4aa1ba530548")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e94b999af1de61c6f57221f520ae952ba68a77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiadás")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiadás")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
