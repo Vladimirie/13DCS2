@@ -1,0 +1,15 @@
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\bin\Debug\net8.0\AutóVerseny.exe
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\bin\Debug\net8.0\AutóVerseny.deps.json
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\bin\Debug\net8.0\AutóVerseny.runtimeconfig.json
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\bin\Debug\net8.0\AutóVerseny.dll
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\bin\Debug\net8.0\AutóVerseny.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.AssemblyInfoInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.AssemblyInfo.cs
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.sourcelink.json
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.dll
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\refint\AutóVerseny.dll
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.pdb
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\AutóVerseny.genruntimeconfig.cache
+C:\Users\Kiss-FodorZsombor\Desktop\gayming\13DCS2\Kiss-Fodor Zsombor\vizsga\AutóVerseny\obj\Debug\net8.0\ref\AutóVerseny.dll
