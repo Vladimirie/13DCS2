@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj": {}
+    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\gayming\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj": {
+    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\gayming\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj",
+        "projectUniqueName": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\gayming\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj",
         "projectName": "Wurlde",
-        "projectPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj",
+        "projectPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\gayming\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\Wurlde.csproj",
         "packagesPath": "C:\\Users\\Kiss-FodorZsombor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\obj\\",
+        "outputPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\gayming\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\Wurlde\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kiss-FodorZsombor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
