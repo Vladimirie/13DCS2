@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+038eb17fc8468d1cf3e490cb238ff3299eb369b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c4a3c4b53ffd711c9c959fc73fe5b7e36083645")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

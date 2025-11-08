@@ -16,11 +16,11 @@
 				{
 					if(user[i] == identical[i])
 					{
-						Console.WriteLine(user[i]);
+						Console.Write(user[i]);
 					}
 					else
 					{
-						Console.WriteLine(".");
+						Console.Write(".");
 					}
 				}
 			}
