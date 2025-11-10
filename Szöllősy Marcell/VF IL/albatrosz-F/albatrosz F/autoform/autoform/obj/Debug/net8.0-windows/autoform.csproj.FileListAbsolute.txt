@@ -1,0 +1,17 @@
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\bin\Debug\net8.0-windows\autoform.exe
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\bin\Debug\net8.0-windows\autoform.deps.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\bin\Debug\net8.0-windows\autoform.runtimeconfig.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\bin\Debug\net8.0-windows\autoform.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\bin\Debug\net8.0-windows\autoform.pdb
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.Form1.resources
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.csproj.GenerateResource.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.AssemblyInfoInputs.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.AssemblyInfo.cs
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.csproj.CoreCompileInputs.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.sourcelink.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\refint\autoform.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.pdb
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\autoform.genruntimeconfig.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoform\autoform\obj\Debug\net8.0-windows\ref\autoform.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044B5235-DC5C-4E97-8868-44B372BDE06D}|autoapp\\autoapp.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoapp\\autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044B5235-DC5C-4E97-8868-44B372BDE06D}|autoapp\\autoapp.csproj|solutionrelative:autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044B5235-DC5C-4E97-8868-44B372BDE06D}|autoapp\\autoapp.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoapp\\autoapp\\autoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044B5235-DC5C-4E97-8868-44B372BDE06D}|autoapp\\autoapp.csproj|solutionrelative:autoapp\\autoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "autoclass.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoapp\\autoapp\\autoclass.cs",
+              "RelativeDocumentMoniker": "autoapp\\autoclass.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoapp\\autoapp\\autoclass.cs",
+              "RelativeToolTip": "autoapp\\autoclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:21:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoapp\\autoapp\\Program.cs",
+              "RelativeDocumentMoniker": "autoapp\\Program.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoapp\\autoapp\\Program.cs",
+              "RelativeToolTip": "autoapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:12:35.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

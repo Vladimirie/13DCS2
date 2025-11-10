@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoform\\autoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|solutionrelative:autoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoform\\autoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|solutionrelative:autoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoform\\autoform\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|solutionrelative:autoform\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoform\\autoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|solutionrelative:autoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|c:\\users\\marcellszollosy\\onedrive - bg\u00E9szc katona j\u00F3zsef technikum\\asztal\\github\\13dcs2\\sz\u00F6ll\u0151sy marcell\\vf il\\albatrosz-f\\albatrosz f\\autoform\\autoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0916CB-1BDE-45CF-AF76-8C038F254E33}|autoform\\autoform.csproj|solutionrelative:autoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Auto.cs",
+              "RelativeDocumentMoniker": "autoform\\Auto.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Auto.cs",
+              "RelativeToolTip": "autoform\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:30:58.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "autoform\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.Designer.cs",
+              "RelativeToolTip": "autoform\\Form1.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:34:53.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.cs",
+              "RelativeDocumentMoniker": "autoform\\Form1.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.cs",
+              "RelativeToolTip": "autoform\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:32:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Program.cs",
+              "RelativeDocumentMoniker": "autoform\\Program.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Program.cs",
+              "RelativeToolTip": "autoform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:30:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.cs",
+              "RelativeDocumentMoniker": "autoform\\Form1.cs",
+              "ToolTip": "C:\\Users\\MarcellSzollosy\\OneDrive - BG\u00E9SZC Katona J\u00F3zsef Technikum\\Asztal\\Github\\13DCS2\\Sz\u00F6ll\u0151sy Marcell\\VF IL\\albatrosz-F\\albatrosz F\\autoform\\autoform\\Form1.cs [Design]",
+              "RelativeToolTip": "autoform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:30:13.787Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfoInputs.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfo.cs
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.csproj.CoreCompileInputs.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.sourcelink.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\bin\Debug\net8.0\autoapp.exe
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\bin\Debug\net8.0\autoapp.deps.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\bin\Debug\net8.0\autoapp.runtimeconfig.json
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\bin\Debug\net8.0\autoapp.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\bin\Debug\net8.0\autoapp.pdb
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\refint\autoapp.dll
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.pdb
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\autoapp.genruntimeconfig.cache
+C:\Users\MarcellSzollosy\OneDrive - BGéSZC Katona József Technikum\Asztal\Github\13DCS2\Szöllősy Marcell\VF IL\albatrosz-F\albatrosz F\autoapp\autoapp\obj\Debug\net8.0\ref\autoapp.dll

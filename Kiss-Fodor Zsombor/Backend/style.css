@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-image: url(hatter.jpg);
 }
@@ -5,4 +6,13 @@ body {
 #ass {
     color: white;
     font-weight: bold;
+=======
+body {
+    background-image: url(hatter.jpg);
+}
+
+#ass {
+    color: white;
+    font-weight: bold;
+>>>>>>> 508682966dc1c50aeb4017a64c1f9d921eaa4e6d
 }
