@@ -2,7 +2,6 @@ class program
 {
     static void Main(string[] args)
     {
-        /*
         List<string> orszagok = new List<string>();
 
         orszagok.Add("Magyarország");
@@ -78,16 +77,8 @@ class program
 
         ParosSzamok.IntersectWith(oszthato4Halmaz);
         Console.WriteLine("A 2 halzmaz metszete: " + string.Join(",", ParosSzamok));
-        */
 
-        Dictionary<int, string> sub = new Dictionary<int, stringe>();
-        sub.Add(1, "C#");
-        sub.Add(2, "Java");
-        sub.Add(3, "Python");
 
-        foreach (var item in sub)
-        {
-            System.Console.WriteLine($"Key: {item.Key}, value:{item.Value}");
-        }
+
     }
 }
