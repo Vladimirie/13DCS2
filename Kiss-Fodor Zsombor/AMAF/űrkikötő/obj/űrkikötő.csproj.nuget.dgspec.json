@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj": {}
+    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\Github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj": {
+    "C:\\Users\\Kiss-FodorZsombor\\Desktop\\Github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj",
+        "projectUniqueName": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\Github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj",
         "projectName": "űrkikötő",
-        "projectPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj",
+        "projectPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\Github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\űrkikötő.csproj",
         "packagesPath": "C:\\Users\\Kiss-FodorZsombor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\obj\\",
+        "outputPath": "C:\\Users\\Kiss-FodorZsombor\\Desktop\\Github\\13DCS2\\Kiss-Fodor Zsombor\\AMAF\\űrkikötő\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiss-FodorZsombor\\AppData\\Roaming\\NuGet\\NuGet.Config",

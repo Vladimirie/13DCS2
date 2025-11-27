@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("űrkikötő")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25e675e9147277ecff465b911d86565dc99afffc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ce68fbf61f5f97b023f75e5e9081b03276defa")]
 [assembly: System.Reflection.AssemblyProductAttribute("űrkikötő")]
 [assembly: System.Reflection.AssemblyTitleAttribute("űrkikötő")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

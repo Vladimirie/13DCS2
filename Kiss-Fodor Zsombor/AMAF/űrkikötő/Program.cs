@@ -137,7 +137,7 @@ namespace űrkikötő
         }
 
         static void ErkezesKiir(Dictionary<int, List<Jarmu>> kocsik)
-        {
+        {          
             for (int i = 0; i < kocsik.Count; i++)
             {
                 

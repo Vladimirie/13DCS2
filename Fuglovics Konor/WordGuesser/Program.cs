@@ -1,45 +1,84 @@
 ﻿namespace WordGuesser
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            string[] words = ["fuvola", "csirke", "adatok", "asztal", "fogoly", "bicska","farkas", "almafa", "babona", "gerinc", "dervis", "bagoly", "ecetes", "angyal", "boglya"];
-			Random rnd = new Random();
-			int num = rnd.Next(0,16);
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			string[] words = ["fuvola", "csirke", "adatok", "asztal", "fogoly", "bicska","farkas", "almafa", "babona", "gerinc", "dervis", "bagoly", "ecetes", "angyal", "boglya"];
+			List<char> guess = [];
+			Random rnd = new();
+			int num = rnd.Next(15);
 			int pos = num;
-			string identical = words[num];
-			string user = Console.ReadLine();
+			string identical = words[pos];
+			Input:
+				string user = Console.ReadLine();
 			if(user.Length > 0)
 			{
-				if(user.Length > identical.Length)
+				if(user != "stop")
 				{
-					while(user.Length > identical.Length)
+					if(user.Length > identical.Length)
 					{
-						user = user.
+						while(user.Length > identical.Length)
+						{
+							user = user.Remove(user.Length-1);
+						}
+					}
+					while(user.Length < identical.Length)
+					{
+						user += " ";
+					}
+					for(int i = 0; i < user.Length; i++)
+					{
+						for(int j = 0; j < identical.Length;j++)
+						{
+							while (guess.Count >= identical.Length)
+							{
+								guess.RemoveAt(0);
+							}
+							if (user[i] == identical[j])
+							{
+								//Console.Write(user[i]);
+								guess.Add(identical[i]);
+								if (guess[i] == '.')
+								{
+									guess[i] = identical[i];
+								}
+							}
+							else
+							{
+								//Console.Write(".");
+								guess.Add('.');
+								if (guess[i] == identical[i])
+								{
+
+								}
+							}
+							i++;
+						}
 					}
 				}
-				while(user.Length < identical.Length)
+				else if(user == "stop")
 				{
-					user += " ";
+					goto Stop;
 				}
-				for(int i = 0; i < identical.Length; i++)
+				foreach (var item in guess)
 				{
-					if(user[i] == identical[i])
-					{
-						Console.Write(user[i]);
-					}
-					else
-					{
-						Console.Write(".");
-					}
+					Console.Write(item);
 				}
+				if (user == identical)
+				{
+					Console.WriteLine("\nNYERTÉL!!!!!!!!!!!!!");
+				}
+				Console.WriteLine("\n");
+				goto Input;
 			}
 			else
 			{
 				Console.WriteLine("Nem írtál semmit!");
 			}
+			Stop:
+				Environment.Exit(0);
 			Console.ReadKey();
-        }
-    }
+		}
+	}
 }
