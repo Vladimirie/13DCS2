@@ -1,0 +1,8 @@
+termék név;termék ára;darabár;raktáron;hány darab
+Alma (5db);500;100;van;30
+Gyufa (100db);20;0.2;van;45
+Fogpiszkálós Doboz (100db);20;0.2;nincs;0
+Hagyma;100;100;van;20
+Domestos Vécétisztító;1300;1300;van;3
+Ásványvíz;50;50;van;18
+Keksz;300;
